@@ -8,7 +8,7 @@
 
 ## Running locally
 
-```
+```bash
 git clone git@github.com:n8n-io/n8n-demo-website.git
 cd n8n-demo-website
 # Recommended: create and activate a virtual environment
