@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+.tmp
+tmp
+dist
+npm-debug.log*
+yarn.lock
+.env
+.vscode
+.idea
+
+venv
+env
+site

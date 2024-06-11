@@ -1,0 +1,14 @@
+site_name: Test site for n8n workflows
+site_description: Test site for n8n workflows
+repo_url: https://github.com/n8n-io/n8n-demo-website 
+extra_css:
+  - _extra/extra.css
+theme:
+  name: material
+  favicon: _images/favicon.ico
+  logo: _images/n8n-docs-icon.svg
+  palette:
+    primary: custom
+nav:
+  - Home: index.md
+  - Workflows that use this site: workflows.md
